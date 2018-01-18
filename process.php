@@ -41,10 +41,6 @@
       echo 'error';
     }
 
-
-
-
-
      ?>
 
      <a href="/">Go back</a>
